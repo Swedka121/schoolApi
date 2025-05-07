@@ -1,1 +1,1 @@
-##School Site API
+School Site API
